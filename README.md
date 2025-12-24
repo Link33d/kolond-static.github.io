@@ -1,0 +1,1 @@
+# kolond-static.github.io
